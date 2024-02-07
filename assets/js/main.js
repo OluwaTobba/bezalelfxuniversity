@@ -1,10 +1,3 @@
-/**
-* Template Name: Selecao
-* Updated: Jan 09 2024 with Bootstrap v5.3.2
-* Template URL: https://bootstrapmade.com/selecao-bootstrap-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
 (function() {
   "use strict";
 
@@ -250,4 +243,5 @@
     })
   });
 
-})()
+}
+)()
